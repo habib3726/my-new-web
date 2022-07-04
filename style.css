@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 800;
 }
@@ -41,4 +41,26 @@ h1 {
     font-weight: 700;
     color: black;
 
+}
+
+#farhana {
+    width: 50%;
+    padding-left: 50px;
+}
+
+#tn {
+    width: 36%;
+    padding-left: 10px;
+}
+
+
+#tea-h {
+    color: rgb(214, 2, 2);
+    font-size: 24px;
+}
+
+.tea-bag {
+    background-image: url(image/tea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
