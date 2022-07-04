@@ -64,3 +64,12 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.ip {
+    width: 50%;
+    padding-left: 150px;
+}
+
+.ip img {
+    width: 70%;
+}
