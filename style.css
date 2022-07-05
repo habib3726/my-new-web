@@ -66,10 +66,28 @@ h1 {
 }
 
 .ip {
-    width: 50%;
-    padding-left: 150px;
+    width: 120%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .ip img {
     width: 70%;
+    border-radius: 30px;
+}
+
+.my-recipies {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    padding: 5%;
+}
+
+.cook {
+    width: 50%;
+    padding: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 15px 15px 40px gray;
+    border-radius: 30px;
 }
